@@ -22,6 +22,6 @@
 	  <p> Son is Walter White, Jr. named after himself</p>
 	  <p> Daughter is Holly White named after Holly Holms</p>
 	  <p> He frequently picksup pizza for his family since he is always cooking for his customers </p>
-	<div class="center"><img src="./PC-494"></div>
+	<div class="center"><img src="./walterwhite.png"></div>
 </div>
 </body>

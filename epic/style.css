@@ -1,0 +1,19 @@
+.center {
+	display: flex;
+	justify-content: space-around;
+}
+
+.wrapper {
+	background-color: dodgerblue;
+	padding: 10px;
+	border: 5px solid rgb(5,20,75);
+	border-radius: 10px;
+	position: relative;
+	Left: 50%;
+	top: 50%;
+	transform-style: preserve-3d;
+}
+
+body {
+	background-color: blue;
+}
