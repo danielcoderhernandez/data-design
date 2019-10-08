@@ -26,6 +26,6 @@
 		<img src="./walterwhite.png" class="walterid">
 	</div>
 </div>
-<h2><a href="./user-story.php"></a> </h2>
+<h2><a href="./user-story.php">User Story</a> </h2>
 </body>
 </html>
