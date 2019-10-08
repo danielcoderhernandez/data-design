@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<div lang="en">
+<html lang="en">
 <head>
 	<meta charset="UTF-8">
 	<title>The One Who Knocks</title>
-	<script src="./script.js"></script>
+	<link rel="stylesheet" href="./style.css">
 </head>
-<p>
 
-
+<body>
   <div class="wrapper">
+
   <h1> Walter White</h1>
 	  <h2>Business Owner</h2>
 	  <p> Runs a eighty-millon dollar business </p>
@@ -22,6 +22,10 @@
 	  <p> Son is Walter White, Jr. named after himself</p>
 	  <p> Daughter is Holly White named after Holly Holms</p>
 	  <p> He frequently picksup pizza for his family since he is always cooking for his customers </p>
-	<div class="center"><img src="./walterwhite.png"></div>
+	<div class="center">
+		<img src="./walterwhite.png" class="walterid">
+	</div>
 </div>
+<h2><a href="./user-story.php"></a> </h2>
 </body>
+</html>

@@ -1,19 +1,28 @@
 .center {
 	display: flex;
-	justify-content: space-around;
+	justify-content: center;
 }
 
 .wrapper {
 	background-color: dodgerblue;
-	padding: 10px;
-	border: 5px solid rgb(5,20,75);
-	border-radius: 10px;
-	position: relative;
+	padding: 5px;
+	border: 5px solid rgb(5,30,70);
+	border-radius: 5px;
+	position: center;
 	Left: 50%;
 	top: 50%;
-	transform-style: preserve-3d;
+	transform-style: flat;
 }
 
 body {
 	background-color: blue;
 }
+
+
+.walterid {border-radius: 7%}
+
+p{text-align: center;}
+
+h1{text-align: center}
+
+h2{text-align: center}
