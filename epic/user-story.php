@@ -9,8 +9,7 @@
 
 <div class="wrapper">
 <p>
-	<h2>"A frequent buyer of pizza who demands anonymity, who wants a fast convenient way to order pizza
-	without ever having to leave my RV as I have to keep my mobile office secure" </h2>
+	<h2>"As a frequent buyer of pizza I want to order pizza without having to disclose my location" </h2>
 </p>
 	<div class="center">
 	<img src="./images.jpg" class="walterid"

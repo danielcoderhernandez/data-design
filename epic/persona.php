@@ -12,11 +12,11 @@
   <h1> Walter White</h1>
 	  <h2>Business Owner</h2>
 	  <p> Male, Age 60 </p>
-	  <p> Android owner who is comfortable using apps and browser</p>
+	  <p> Owns a Google Pixel 2 running Android 8.1 which runs on Verizon's LTE network</p>
 	  <p> Does not enjoy being tracked, turns off location services</p>
 	  <p> Entrepreneur with his own business </p>
-	  <p> Needs a quick efficient platform with anonymity while doing online purchases </p>
-	  <p> Uses a RV as a mobile office </p>
+	  <p> Needs a quick efficient platform for online purchases </p>
+	  <p> Prefers to be able to use a drive-up in his RV </p>
 
 	  <h2> Family Man </h2>
 	  <p> Wife is Skyler White </p>
