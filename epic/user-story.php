@@ -9,8 +9,8 @@
 
 <div class="wrapper">
 <p>
-	<h2>"As a frequent buyer of pizza who wants to remain anonymous I want a fast convenient way to order pizza
-	without ever having to leave my RV" </h2>
+	<h2>"A frequent buyer of pizza who demands anonymity, who wants a fast convenient way to order pizza
+	without ever having to leave my RV as I have to keep my mobile office secure" </h2>
 </p>
 	<div class="center">
 	<img src="./images.jpg" class="walterid"
@@ -18,5 +18,6 @@
 
 </div>
 <h2><a href="./persona.php">Persona</a> </h2>
+<h2><a href="./usecase-interactionflow.php">Use Case - Interaction Flow</a> </h2>
 </body>
 <html/>
