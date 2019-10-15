@@ -5,6 +5,7 @@
 	<title>Ordering Dion's</title>
 	<link rel="stylesheet" href="./style.css">
 </head>
+
 <body>
 <h2 class="wrapper">
 	<p>
@@ -35,7 +36,7 @@
 	<p>	8. Selects "Pay Online"</p>
 	<p> Walter is delighted, he now has time to have a sit down dinner with his perfect family</p>
 	<div class="center">
-		<img src="./images.jpg" class="walterid"
+		<img src="./images.jpg" class="walterid"/>
 	</div>
 </h3>
 <h2><a href="./persona.php">Persona</a> </h2>
