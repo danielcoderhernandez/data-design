@@ -28,7 +28,6 @@
 		<img src="./walterwhite.png" class="walterid">
 	</div>
 </div>
-	<h2><a href="./user-story.php">User Story</a> </h2>
-  	<h2><a href="./usecase-interactionflow.php">Use Case - Interaction Flow</a> </h2>
+  <h2><a href="./data-design-index.php">INDEX</a> </h2>
 </body>
 </html>

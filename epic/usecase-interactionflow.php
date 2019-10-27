@@ -39,7 +39,6 @@
 		<img src="./images.jpg" class="walterid"/>
 	</div>
 </h3>
-<h2><a href="./persona.php">Persona</a> </h2>
-<h2><a href="./user-story.php">User Story</a> </h2>
+<h2><a href="./data-design-index.php">INDEX</a> </h2>
 </body>
 <html/>
