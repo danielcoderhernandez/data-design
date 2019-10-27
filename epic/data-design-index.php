@@ -12,15 +12,15 @@
 
 
 </div>
-<h2><a href="./persona.php">Persona</a> </h2>
-<h2><a href="./usecase-interactionflow.php">Use Case - Interaction Flow</a> </h2>
-<h2><a href="./user-story.php">User Story</a> </h2>
+<h2><a href="./persona.php">Persona</a></h2>
+<h2><a href="./usecase-interactionflow.php">Use Case - Interaction Flow</a></h2>
+<h2><a href="./user-story.php">User Story</a></h2>
 
 <div class="center">
-	<img src="./conceptual-model.PNG">
-	<img src="./diagram-erd-phase2.PNG">
+
+	<p><img src="./conceptual-model.PNG"></p>
+	<br>
+	<p><img src="erd-diagram.PNG"></p>
 </div>
 
-
-<h2> <a href="./"</h2>
 </body>
